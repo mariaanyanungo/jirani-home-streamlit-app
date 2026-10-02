@@ -1,0 +1,7 @@
+policy_id,title,category,version,effective_date,approval_date,approval_status,status,owner,next_review_date,content,replaces_policy_id,archive_reason
+P001,Returns Policy,Returns,3.0,2026-10-01,2026-09-25,Approved,Current approved,Customer Operations Policy Owner,2027-04-01,Use the current approved return process. Confirm order details and required evidence before advising the customer.,P002,
+P002,Returns Policy,Returns,2.0,2026-01-01,2025-12-15,Superseded,Superseded,Customer Operations Policy Owner,2026-09-30,Historical version. Do not use for customer responses.,,Replaced by Returns Policy v3.0
+P003,Delivery Enquiries Policy,Delivery,1.2,2026-09-15,2026-09-10,Approved,Current approved,Logistics Policy Owner,2027-03-15,Check the order reference and courier status before providing the customer with an update.,,
+P004,Damaged Item Policy,Damaged items,1.0,2026-08-01,2026-07-25,Approved,Current approved,Customer Operations Policy Owner,2027-02-01,Collect the customer description and required supporting evidence before escalating where necessary.,,
+P005,Warranty Policy,Warranty,2.1,2026-07-01,2026-06-20,Approved,Current approved,Product Policy Owner,2027-01-01,Confirm product and purchase details before applying the current warranty guidance.,,
+P006,Account Query Policy,Account queries,1.0,2026-06-01,2026-05-20,Approved,Current approved,Customer Operations Policy Owner,2026-12-01,Follow the approved account-query process and protect customer information.,,

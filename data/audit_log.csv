@@ -1,0 +1,15 @@
+event_id,timestamp,user,role,action,policy_id,issue_id,details
+EVT-20261002142326-1527BC,2026-10-02 14:23:26,Demo User,Support Agent,Policy issue submitted,,ISS-20261002-4C1FA3,Missing policy reported for ticket CASE-1042.
+EVT-20261002173658-DEBD50,2026-10-02 17:36:58,Demo User,Support Agent,Policy viewed and verified,P003,,Checked Delivery Enquiries Policy v1.2 (status: Current approved; next review 2027-03-15).
+EVT-20261002180004-719242,2026-10-02 18:00:04,Me,Support Agent,Policy viewed and verified,P001,,Checked Returns Policy v3.0 (status: Current approved; next review 2027-04-01).
+EVT-20261002191451-06A11F,2026-10-02 19:14:51,Me,Support Agent,Policy viewed and verified,P001,,Checked Returns Policy v3.0 (status: Current approved; next review 2027-04-01).
+EVT-20261002191458-3E28C2,2026-10-02 19:14:58,Me,Support Agent,Policy viewed and verified,P003,,Checked Delivery Enquiries Policy v1.2 (status: Current approved; next review 2027-03-15).
+EVT-20261002191751-0283F4,2026-10-02 19:17:51,Me,Support Agent,Policy issue saved locally,P001,ISS-20261002-49AE44,Potentially outdated policy reported for ticket 67.
+EVT-20261002191752-67B5B4,2026-10-02 19:17:52,Me,Support Agent,Make workflow not configured,P001,ISS-20261002-49AE44,Make webhook URL is not configured. Local record kept as Open.
+EVT-20261002192245-D3E930,2026-10-02 19:22:45,Demo User,Support Agent,Policy issue saved locally,,ISS-20261002-F5338F,Missing policy reported for ticket 88.
+EVT-20261002192247-E9DF90,2026-10-02 19:22:47,Demo User,Support Agent,Policy issue sent to Make workflow,,ISS-20261002-F5338F,Make workflow completed for issue ISS-20261002-F5338F; tracking ID MAKE-ISS-20261002-F5338F-20261002T172247.
+EVT-20261002194759-5DF558,2026-10-02 19:47:59,Demo User,Support Agent,Policy issue saved locally,,ISS-20261002-6D5714,Missing policy reported for ticket tr4.
+EVT-20261002194800-7030C6,2026-10-02 19:48:00,Demo User,Support Agent,Make workflow notification failed,,ISS-20261002-6D5714,The Make webhook response did not include a tracking ID.
+EVT-20261002194824-1173F4,2026-10-02 19:48:24,Demo User,Support Agent,Retried Make policy issue workflow,,ISS-20261002-6D5714,Retry attempt 1 for Make workflow.
+EVT-20261002195925-2E079E,2026-10-02 19:59:25,Demo User,Support Agent,Policy issue saved locally,,ISS-20261002-2F7092,Missing policy reported for ticket tr4.
+EVT-20261002195927-2C4B97,2026-10-02 19:59:27,Demo User,Support Agent,Policy issue sent to Make workflow,,ISS-20261002-2F7092,Make workflow completed for issue ISS-20261002-2F7092; tracking ID MAKE-ISS-20261002-2F7092-20261002T175926.

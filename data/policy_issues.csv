@@ -1,0 +1,6 @@
+issue_id,policy_id,issue_type,ticket_reference,description,reported_by,reported_date,assigned_to,status,resolution_notes,last_updated,workflow_status,workflow_tracking_id,workflow_message,workflow_last_updated,workflow_retry_count
+ISS-20261002-4C1FA3,,Missing policy,CASE-1042,BROKEN TELEVISION,Demo User,2026-10-02,Relevant Policy Owner,Open,,2026-10-02 14:23:26,Not sent,,,,0
+ISS-20261002-49AE44,P001,Potentially outdated policy,67,The Policy is not retrievable,Me,2026-10-02,Relevant Policy Owner,Open,,2026-10-02 19:17:51,Sending,,,2026-10-02 19:17:51,0
+ISS-20261002-F5338F,,Missing policy,88,I don't know the problem,Demo User,2026-10-02,Relevant Policy Owner,In review,,2026-10-02 19:22:47,In review,MAKE-ISS-20261002-F5338F-20261002T172247,Policy Owner review task created successfully.,2026-10-02T17:22:47+01:00,0
+ISS-20261002-6D5714,,Missing policy,tr4,I am tired now,Demo User,2026-10-02,Relevant Policy Owner,Open,,2026-10-02 19:48:25,Notification failed,,The Make webhook response did not include a tracking ID.,2026-10-02T16:48:25Z,1
+ISS-20261002-2F7092,,Missing policy,tr4,I am tired now,Demo User,2026-10-02,Relevant Policy Owner,In review,,2026-10-02 19:59:27,In review,MAKE-ISS-20261002-2F7092-20261002T175926,Policy Owner review task created successfully.,2026-10-02T17:59:26+01:00,0
